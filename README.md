@@ -1,3 +1,3 @@
 # Cimon
-A Cimon says game
-A work-in-progress by: Jefferson D. Kappers
+A Cimon says game &
+a work-in-progress by: Jefferson D. Kappers
